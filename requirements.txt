@@ -1,0 +1,11 @@
+ipython==9.3.0
+langchain==0.3.25
+langchain_anthropic==0.3.15
+langchain_community==0.3.25
+langchain_core==0.3.65
+langchain_groq==0.3.2
+langchain_openai==0.3.24
+langgraph==0.4.8
+pydantic==2.11.7
+python-dotenv==1.1.0
+Requests==2.32.4
